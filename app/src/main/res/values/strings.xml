@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auth Tab App</string>
+    <string name="auth_tab_tests">Auth Tab Tests</string>
+    <string name="custom_scheme">Custom Scheme</string>
+    <string name="custom_scheme_cat">Custom Scheme Cat 🐈</string>
+    <string name="custom_scheme_dog">Custom Scheme Dog 🐕</string>
+    <string name="https">HTTPS</string>
+    <string name="chrome_dal_verification">Chrome DAL Verification</string>
+    <string name="android_asset_link">Android Asset Link</string>
+    <string name="unverified">Unverified</string>
+    <string name="https_turtle">HTTPS Turtle 🐢</string>
+    <string name="https_otter">HTTPS Otter 🦦</string>
+    <string name="https_owl">HTTPS Owl 🦉</string>
+</resources>
