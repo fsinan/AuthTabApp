@@ -12,7 +12,7 @@ public class AppLinkActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        String message = "Redirect wasn't captured by the Auth Tab.";
+        String message = "Received intent for Otter \uD83E\uDDA6.";
         Toast.makeText(this, message, Toast.LENGTH_LONG).show();
         Log.i(TAG, message);
         finish();
